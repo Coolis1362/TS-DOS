@@ -40,7 +40,3 @@ TS-DOS is a retro-inspired operating system developed to bring a modern yet nost
 ## **Feedback**
 
 Found an issue or have suggestions for improvement? Feel free to open an issue or contact us directly.
-
----
-
-Feel free to copy this content into a `.md` file, save it as `README.md` in your repository, and push it to GitHub! Let me know if you need help creating the file locally or adding more details. 🚀✨
