@@ -28,8 +28,8 @@ TS-DOS is a retro-inspired operating system developed to bring a modern yet nost
 
 ## **Current Release**
 
-- **Version**: v1.0.2
-- **Release Date**: April 4, 2025
+- **Version**: v1.0.3
+- **Release Date**: April 12, 2025
 - **Highlights**:
   - Improved system commands
   - Enhanced compatibility with Python workloads
